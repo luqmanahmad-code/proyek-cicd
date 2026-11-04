@@ -1,1 +1,1 @@
-document.getElementById("judul").textContent = "Halaman ini dikelola oleh pipeline CI/CD";
+document.getElementById("judul").innerText = "Selamat Datang - Proyek CI/CD Ahmad Luqman";
